@@ -100,7 +100,7 @@ var APP_DATA = {
           "yaw": 1.0557583076933135,
           "pitch": -0.011291650738185055,
           "title": "好食城",
-          "text": "今年才剛完工，是基隆最新的公共設施，將基隆港變成船的外觀，且在內部有不少的美食商家，是休閒的好地方"
+          "text": "Text"
         }
       ]
     },
@@ -268,7 +268,7 @@ var APP_DATA = {
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": true,
-    "fullscreenButton": true,
+    "fullscreenButton": false,
     "viewControlButtons": true
   }
 };
